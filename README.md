@@ -22,7 +22,9 @@ No deployment is required - Click [here](https://christiankapita.github.io/Weath
  App view with sample data
  1. ![Weather DashBoard](https://user-images.githubusercontent.com/73804862/104147369-fd525600-539b-11eb-9a54-a6441e8d6b9b.PNG)
 
- 
+ 2. ![Weather DashBoard2](https://user-images.githubusercontent.com/73804862/104147598-fc6df400-539c-11eb-8a75-e2f1b4487f1f.PNG)
+
+
 
 ## Contribution
 folke the repo, clone it on your local PC and change the code to make it much better- Push requests are welcome.
